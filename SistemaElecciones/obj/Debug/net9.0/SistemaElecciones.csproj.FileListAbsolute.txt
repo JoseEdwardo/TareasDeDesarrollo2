@@ -1,0 +1,14 @@
+C:\Users\Jose Edwardo\Desktop\C#\SistemaElecciones\bin\Debug\net9.0\SistemaElecciones.exe
+C:\Users\Jose Edwardo\Desktop\C#\SistemaElecciones\bin\Debug\net9.0\SistemaElecciones.deps.json
+C:\Users\Jose Edwardo\Desktop\C#\SistemaElecciones\bin\Debug\net9.0\SistemaElecciones.runtimeconfig.json
+C:\Users\Jose Edwardo\Desktop\C#\SistemaElecciones\bin\Debug\net9.0\SistemaElecciones.dll
+C:\Users\Jose Edwardo\Desktop\C#\SistemaElecciones\bin\Debug\net9.0\SistemaElecciones.pdb
+C:\Users\Jose Edwardo\Desktop\C#\SistemaElecciones\obj\Debug\net9.0\SistemaElecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Edwardo\Desktop\C#\SistemaElecciones\obj\Debug\net9.0\SistemaElecciones.AssemblyInfoInputs.cache
+C:\Users\Jose Edwardo\Desktop\C#\SistemaElecciones\obj\Debug\net9.0\SistemaElecciones.AssemblyInfo.cs
+C:\Users\Jose Edwardo\Desktop\C#\SistemaElecciones\obj\Debug\net9.0\SistemaElecciones.csproj.CoreCompileInputs.cache
+C:\Users\Jose Edwardo\Desktop\C#\SistemaElecciones\obj\Debug\net9.0\SistemaElecciones.dll
+C:\Users\Jose Edwardo\Desktop\C#\SistemaElecciones\obj\Debug\net9.0\refint\SistemaElecciones.dll
+C:\Users\Jose Edwardo\Desktop\C#\SistemaElecciones\obj\Debug\net9.0\SistemaElecciones.pdb
+C:\Users\Jose Edwardo\Desktop\C#\SistemaElecciones\obj\Debug\net9.0\SistemaElecciones.genruntimeconfig.cache
+C:\Users\Jose Edwardo\Desktop\C#\SistemaElecciones\obj\Debug\net9.0\ref\SistemaElecciones.dll

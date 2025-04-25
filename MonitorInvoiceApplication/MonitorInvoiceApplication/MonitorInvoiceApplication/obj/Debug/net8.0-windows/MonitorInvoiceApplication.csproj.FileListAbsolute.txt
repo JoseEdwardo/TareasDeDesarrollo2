@@ -1,0 +1,16 @@
+C:\Users\Guz_n\OneDrive\Escritorio\Tarea de desarrollo de software 2\MonitorInvoiceApplication\MonitorInvoiceApplication\bin\Debug\net8.0-windows\MonitorInvoiceApplication.exe
+C:\Users\Guz_n\OneDrive\Escritorio\Tarea de desarrollo de software 2\MonitorInvoiceApplication\MonitorInvoiceApplication\bin\Debug\net8.0-windows\MonitorInvoiceApplication.deps.json
+C:\Users\Guz_n\OneDrive\Escritorio\Tarea de desarrollo de software 2\MonitorInvoiceApplication\MonitorInvoiceApplication\bin\Debug\net8.0-windows\MonitorInvoiceApplication.runtimeconfig.json
+C:\Users\Guz_n\OneDrive\Escritorio\Tarea de desarrollo de software 2\MonitorInvoiceApplication\MonitorInvoiceApplication\bin\Debug\net8.0-windows\MonitorInvoiceApplication.dll
+C:\Users\Guz_n\OneDrive\Escritorio\Tarea de desarrollo de software 2\MonitorInvoiceApplication\MonitorInvoiceApplication\bin\Debug\net8.0-windows\MonitorInvoiceApplication.pdb
+C:\Users\Guz_n\OneDrive\Escritorio\Tarea de desarrollo de software 2\MonitorInvoiceApplication\MonitorInvoiceApplication\obj\Debug\net8.0-windows\MonitorInvoiceApplication.Form1.resources
+C:\Users\Guz_n\OneDrive\Escritorio\Tarea de desarrollo de software 2\MonitorInvoiceApplication\MonitorInvoiceApplication\obj\Debug\net8.0-windows\MonitorInvoiceApplication.csproj.GenerateResource.cache
+C:\Users\Guz_n\OneDrive\Escritorio\Tarea de desarrollo de software 2\MonitorInvoiceApplication\MonitorInvoiceApplication\obj\Debug\net8.0-windows\MonitorInvoiceApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guz_n\OneDrive\Escritorio\Tarea de desarrollo de software 2\MonitorInvoiceApplication\MonitorInvoiceApplication\obj\Debug\net8.0-windows\MonitorInvoiceApplication.AssemblyInfoInputs.cache
+C:\Users\Guz_n\OneDrive\Escritorio\Tarea de desarrollo de software 2\MonitorInvoiceApplication\MonitorInvoiceApplication\obj\Debug\net8.0-windows\MonitorInvoiceApplication.AssemblyInfo.cs
+C:\Users\Guz_n\OneDrive\Escritorio\Tarea de desarrollo de software 2\MonitorInvoiceApplication\MonitorInvoiceApplication\obj\Debug\net8.0-windows\MonitorInvoiceApplication.csproj.CoreCompileInputs.cache
+C:\Users\Guz_n\OneDrive\Escritorio\Tarea de desarrollo de software 2\MonitorInvoiceApplication\MonitorInvoiceApplication\obj\Debug\net8.0-windows\MonitorInvoiceApplication.dll
+C:\Users\Guz_n\OneDrive\Escritorio\Tarea de desarrollo de software 2\MonitorInvoiceApplication\MonitorInvoiceApplication\obj\Debug\net8.0-windows\refint\MonitorInvoiceApplication.dll
+C:\Users\Guz_n\OneDrive\Escritorio\Tarea de desarrollo de software 2\MonitorInvoiceApplication\MonitorInvoiceApplication\obj\Debug\net8.0-windows\MonitorInvoiceApplication.pdb
+C:\Users\Guz_n\OneDrive\Escritorio\Tarea de desarrollo de software 2\MonitorInvoiceApplication\MonitorInvoiceApplication\obj\Debug\net8.0-windows\MonitorInvoiceApplication.genruntimeconfig.cache
+C:\Users\Guz_n\OneDrive\Escritorio\Tarea de desarrollo de software 2\MonitorInvoiceApplication\MonitorInvoiceApplication\obj\Debug\net8.0-windows\ref\MonitorInvoiceApplication.dll

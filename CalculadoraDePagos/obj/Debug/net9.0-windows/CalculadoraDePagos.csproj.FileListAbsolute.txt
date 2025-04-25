@@ -1,0 +1,16 @@
+C:\Users\Jose Edwardo\Desktop\C#\CalculadoraDePagos\bin\Debug\net9.0-windows\CalculadoraDePagos.exe
+C:\Users\Jose Edwardo\Desktop\C#\CalculadoraDePagos\bin\Debug\net9.0-windows\CalculadoraDePagos.deps.json
+C:\Users\Jose Edwardo\Desktop\C#\CalculadoraDePagos\bin\Debug\net9.0-windows\CalculadoraDePagos.runtimeconfig.json
+C:\Users\Jose Edwardo\Desktop\C#\CalculadoraDePagos\bin\Debug\net9.0-windows\CalculadoraDePagos.dll
+C:\Users\Jose Edwardo\Desktop\C#\CalculadoraDePagos\bin\Debug\net9.0-windows\CalculadoraDePagos.pdb
+C:\Users\Jose Edwardo\Desktop\C#\CalculadoraDePagos\obj\Debug\net9.0-windows\CalculadoraDePagos.Form1.resources
+C:\Users\Jose Edwardo\Desktop\C#\CalculadoraDePagos\obj\Debug\net9.0-windows\CalculadoraDePagos.csproj.GenerateResource.cache
+C:\Users\Jose Edwardo\Desktop\C#\CalculadoraDePagos\obj\Debug\net9.0-windows\CalculadoraDePagos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Edwardo\Desktop\C#\CalculadoraDePagos\obj\Debug\net9.0-windows\CalculadoraDePagos.AssemblyInfoInputs.cache
+C:\Users\Jose Edwardo\Desktop\C#\CalculadoraDePagos\obj\Debug\net9.0-windows\CalculadoraDePagos.AssemblyInfo.cs
+C:\Users\Jose Edwardo\Desktop\C#\CalculadoraDePagos\obj\Debug\net9.0-windows\CalculadoraDePagos.csproj.CoreCompileInputs.cache
+C:\Users\Jose Edwardo\Desktop\C#\CalculadoraDePagos\obj\Debug\net9.0-windows\CalculadoraDePagos.dll
+C:\Users\Jose Edwardo\Desktop\C#\CalculadoraDePagos\obj\Debug\net9.0-windows\refint\CalculadoraDePagos.dll
+C:\Users\Jose Edwardo\Desktop\C#\CalculadoraDePagos\obj\Debug\net9.0-windows\CalculadoraDePagos.pdb
+C:\Users\Jose Edwardo\Desktop\C#\CalculadoraDePagos\obj\Debug\net9.0-windows\CalculadoraDePagos.genruntimeconfig.cache
+C:\Users\Jose Edwardo\Desktop\C#\CalculadoraDePagos\obj\Debug\net9.0-windows\ref\CalculadoraDePagos.dll

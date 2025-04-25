@@ -1,0 +1,7 @@
+C:\Users\Jose Edwardo\Desktop\C#\ClasificadorDeTriangulosPOO\bin\Debug\ClasificadorDeTriangulosPOO.exe.config
+C:\Users\Jose Edwardo\Desktop\C#\ClasificadorDeTriangulosPOO\bin\Debug\ClasificadorDeTriangulosPOO.exe
+C:\Users\Jose Edwardo\Desktop\C#\ClasificadorDeTriangulosPOO\bin\Debug\ClasificadorDeTriangulosPOO.pdb
+C:\Users\Jose Edwardo\Desktop\C#\ClasificadorDeTriangulosPOO\obj\Debug\ClasificadorDeTriangulosPOO.csproj.AssemblyReference.cache
+C:\Users\Jose Edwardo\Desktop\C#\ClasificadorDeTriangulosPOO\obj\Debug\ClasificadorDeTriangulosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Jose Edwardo\Desktop\C#\ClasificadorDeTriangulosPOO\obj\Debug\ClasificadorDeTriangulosPOO.exe
+C:\Users\Jose Edwardo\Desktop\C#\ClasificadorDeTriangulosPOO\obj\Debug\ClasificadorDeTriangulosPOO.pdb
