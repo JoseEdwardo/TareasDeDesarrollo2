@@ -1,0 +1,14 @@
+C:\Users\Jose Edwardo\Desktop\C#\EjercicioDeElevador\bin\Debug\net9.0\EjercicioDeElevador.exe
+C:\Users\Jose Edwardo\Desktop\C#\EjercicioDeElevador\bin\Debug\net9.0\EjercicioDeElevador.deps.json
+C:\Users\Jose Edwardo\Desktop\C#\EjercicioDeElevador\bin\Debug\net9.0\EjercicioDeElevador.runtimeconfig.json
+C:\Users\Jose Edwardo\Desktop\C#\EjercicioDeElevador\bin\Debug\net9.0\EjercicioDeElevador.dll
+C:\Users\Jose Edwardo\Desktop\C#\EjercicioDeElevador\bin\Debug\net9.0\EjercicioDeElevador.pdb
+C:\Users\Jose Edwardo\Desktop\C#\EjercicioDeElevador\obj\Debug\net9.0\EjercicioDeElevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Edwardo\Desktop\C#\EjercicioDeElevador\obj\Debug\net9.0\EjercicioDeElevador.AssemblyInfoInputs.cache
+C:\Users\Jose Edwardo\Desktop\C#\EjercicioDeElevador\obj\Debug\net9.0\EjercicioDeElevador.AssemblyInfo.cs
+C:\Users\Jose Edwardo\Desktop\C#\EjercicioDeElevador\obj\Debug\net9.0\EjercicioDeElevador.csproj.CoreCompileInputs.cache
+C:\Users\Jose Edwardo\Desktop\C#\EjercicioDeElevador\obj\Debug\net9.0\EjercicioDeElevador.dll
+C:\Users\Jose Edwardo\Desktop\C#\EjercicioDeElevador\obj\Debug\net9.0\refint\EjercicioDeElevador.dll
+C:\Users\Jose Edwardo\Desktop\C#\EjercicioDeElevador\obj\Debug\net9.0\EjercicioDeElevador.pdb
+C:\Users\Jose Edwardo\Desktop\C#\EjercicioDeElevador\obj\Debug\net9.0\EjercicioDeElevador.genruntimeconfig.cache
+C:\Users\Jose Edwardo\Desktop\C#\EjercicioDeElevador\obj\Debug\net9.0\ref\EjercicioDeElevador.dll

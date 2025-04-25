@@ -1,0 +1,14 @@
+C:\Prog_2_Intec\Teoria\BombaGasolina\bin\Debug\net8.0\BombaGasolina.exe
+C:\Prog_2_Intec\Teoria\BombaGasolina\bin\Debug\net8.0\BombaGasolina.deps.json
+C:\Prog_2_Intec\Teoria\BombaGasolina\bin\Debug\net8.0\BombaGasolina.runtimeconfig.json
+C:\Prog_2_Intec\Teoria\BombaGasolina\bin\Debug\net8.0\BombaGasolina.dll
+C:\Prog_2_Intec\Teoria\BombaGasolina\bin\Debug\net8.0\BombaGasolina.pdb
+C:\Prog_2_Intec\Teoria\BombaGasolina\obj\Debug\net8.0\BombaGasolina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog_2_Intec\Teoria\BombaGasolina\obj\Debug\net8.0\BombaGasolina.AssemblyInfoInputs.cache
+C:\Prog_2_Intec\Teoria\BombaGasolina\obj\Debug\net8.0\BombaGasolina.AssemblyInfo.cs
+C:\Prog_2_Intec\Teoria\BombaGasolina\obj\Debug\net8.0\BombaGasolina.csproj.CoreCompileInputs.cache
+C:\Prog_2_Intec\Teoria\BombaGasolina\obj\Debug\net8.0\BombaGasolina.dll
+C:\Prog_2_Intec\Teoria\BombaGasolina\obj\Debug\net8.0\refint\BombaGasolina.dll
+C:\Prog_2_Intec\Teoria\BombaGasolina\obj\Debug\net8.0\BombaGasolina.pdb
+C:\Prog_2_Intec\Teoria\BombaGasolina\obj\Debug\net8.0\BombaGasolina.genruntimeconfig.cache
+C:\Prog_2_Intec\Teoria\BombaGasolina\obj\Debug\net8.0\ref\BombaGasolina.dll
