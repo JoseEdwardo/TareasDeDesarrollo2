@@ -264,6 +264,7 @@
             listBoxPackages.Size = new Size(235, 144);
             listBoxPackages.TabIndex = 1;
             listBoxPackages.SelectedIndexChanged += listBoxPackages_SelectedIndexChanged;
+            listBoxPackages.DoubleClick += listBoxPackages_DoubleClick;
             // 
             // comboBoxFilterByState
             // 

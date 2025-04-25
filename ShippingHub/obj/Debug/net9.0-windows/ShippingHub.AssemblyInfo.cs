@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShippingHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d9741de2f49678262b8658e1c020f558f72e6ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShippingHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShippingHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jose Edwardo\\Desktop\\C#\\StudentGradeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0862ECEB-EF32-49BD-8816-52D9243F9E78}|StudentGradeApp\\StudentGradeApp.csproj|c:\\users\\jose edwardo\\desktop\\c#\\studentgradeapp\\studentgradeapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0862ECEB-EF32-49BD-8816-52D9243F9E78}|StudentGradeApp\\StudentGradeApp.csproj|solutionrelative:studentgradeapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0862ECEB-EF32-49BD-8816-52D9243F9E78}|StudentGradeApp\\StudentGradeApp.csproj|c:\\users\\jose edwardo\\desktop\\c#\\studentgradeapp\\studentgradeapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0862ECEB-EF32-49BD-8816-52D9243F9E78}|StudentGradeApp\\StudentGradeApp.csproj|solutionrelative:studentgradeapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Edwardo\\Desktop\\C#\\StudentGradeApp\\StudentGradeApp\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentGradeApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jose Edwardo\\Desktop\\C#\\StudentGradeApp\\StudentGradeApp\\Form1.cs",
+              "RelativeToolTip": "StudentGradeApp\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwIsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:36:34.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jose Edwardo\\Desktop\\C#\\StudentGradeApp\\StudentGradeApp\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentGradeApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jose Edwardo\\Desktop\\C#\\StudentGradeApp\\StudentGradeApp\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "StudentGradeApp\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:34:00.884Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
