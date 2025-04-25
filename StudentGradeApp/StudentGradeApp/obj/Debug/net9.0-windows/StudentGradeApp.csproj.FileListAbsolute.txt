@@ -30,3 +30,20 @@ C:\Users\Jose Edwardo\Desktop\C#\StudentGradeApp\StudentGradeApp\obj\Debug\net9.
 C:\Users\Jose Edwardo\Desktop\C#\StudentGradeApp\StudentGradeApp\obj\Debug\net9.0-windows\StudentGradeApp.pdb
 C:\Users\Jose Edwardo\Desktop\C#\StudentGradeApp\StudentGradeApp\obj\Debug\net9.0-windows\StudentGradeApp.genruntimeconfig.cache
 C:\Users\Jose Edwardo\Desktop\C#\StudentGradeApp\StudentGradeApp\obj\Debug\net9.0-windows\ref\StudentGradeApp.dll
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\StudentGradeApp\StudentGradeApp\bin\Debug\net9.0-windows\StudentGradeApp.exe
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\StudentGradeApp\StudentGradeApp\bin\Debug\net9.0-windows\StudentGradeApp.deps.json
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\StudentGradeApp\StudentGradeApp\bin\Debug\net9.0-windows\StudentGradeApp.runtimeconfig.json
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\StudentGradeApp\StudentGradeApp\bin\Debug\net9.0-windows\StudentGradeApp.dll
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\StudentGradeApp\StudentGradeApp\bin\Debug\net9.0-windows\StudentGradeApp.pdb
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\StudentGradeApp\StudentGradeApp\obj\Debug\net9.0-windows\StudentGradeApp.Form1.resources
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\StudentGradeApp\StudentGradeApp\obj\Debug\net9.0-windows\StudentGradeApp.csproj.GenerateResource.cache
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\StudentGradeApp\StudentGradeApp\obj\Debug\net9.0-windows\StudentGradeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\StudentGradeApp\StudentGradeApp\obj\Debug\net9.0-windows\StudentGradeApp.AssemblyInfoInputs.cache
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\StudentGradeApp\StudentGradeApp\obj\Debug\net9.0-windows\StudentGradeApp.AssemblyInfo.cs
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\StudentGradeApp\StudentGradeApp\obj\Debug\net9.0-windows\StudentGradeApp.csproj.CoreCompileInputs.cache
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\StudentGradeApp\StudentGradeApp\obj\Debug\net9.0-windows\StudentGradeApp.sourcelink.json
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\StudentGradeApp\StudentGradeApp\obj\Debug\net9.0-windows\StudentGradeApp.dll
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\StudentGradeApp\StudentGradeApp\obj\Debug\net9.0-windows\refint\StudentGradeApp.dll
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\StudentGradeApp\StudentGradeApp\obj\Debug\net9.0-windows\StudentGradeApp.pdb
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\StudentGradeApp\StudentGradeApp\obj\Debug\net9.0-windows\StudentGradeApp.genruntimeconfig.cache
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\StudentGradeApp\StudentGradeApp\obj\Debug\net9.0-windows\ref\StudentGradeApp.dll

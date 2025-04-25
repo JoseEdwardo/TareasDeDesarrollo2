@@ -15,3 +15,21 @@ C:\Users\Jose Edwardo\Desktop\C#\Flags\obj\Debug\net9.0-windows\Flags.pdb
 C:\Users\Jose Edwardo\Desktop\C#\Flags\obj\Debug\net9.0-windows\Flags.genruntimeconfig.cache
 C:\Users\Jose Edwardo\Desktop\C#\Flags\obj\Debug\net9.0-windows\ref\Flags.dll
 C:\Users\Jose Edwardo\Desktop\C#\Flags\obj\Debug\net9.0-windows\Flags.Properties.Resources.resources
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\bin\Debug\net9.0-windows\Flags.exe
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\bin\Debug\net9.0-windows\Flags.deps.json
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\bin\Debug\net9.0-windows\Flags.runtimeconfig.json
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\bin\Debug\net9.0-windows\Flags.dll
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\bin\Debug\net9.0-windows\Flags.pdb
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\obj\Debug\net9.0-windows\Flags.Form1.resources
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\obj\Debug\net9.0-windows\Flags.Properties.Resources.resources
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\obj\Debug\net9.0-windows\Flags.csproj.GenerateResource.cache
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\obj\Debug\net9.0-windows\Flags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\obj\Debug\net9.0-windows\Flags.AssemblyInfoInputs.cache
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\obj\Debug\net9.0-windows\Flags.AssemblyInfo.cs
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\obj\Debug\net9.0-windows\Flags.csproj.CoreCompileInputs.cache
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\obj\Debug\net9.0-windows\Flags.sourcelink.json
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\obj\Debug\net9.0-windows\Flags.dll
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\obj\Debug\net9.0-windows\refint\Flags.dll
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\obj\Debug\net9.0-windows\Flags.pdb
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\obj\Debug\net9.0-windows\Flags.genruntimeconfig.cache
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\Flags\obj\Debug\net9.0-windows\ref\Flags.dll

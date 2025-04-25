@@ -8,3 +8,13 @@ C:\Users\Jose Edwardo\Desktop\C#\AplicacionDeInformesDeVentas\obj\Debug\Aplicaci
 C:\Users\Jose Edwardo\Desktop\C#\AplicacionDeInformesDeVentas\obj\Debug\AplicacionDeInformesDeVentas.csproj.CoreCompileInputs.cache
 C:\Users\Jose Edwardo\Desktop\C#\AplicacionDeInformesDeVentas\obj\Debug\AplicacionDeInformesDeVentas.exe
 C:\Users\Jose Edwardo\Desktop\C#\AplicacionDeInformesDeVentas\obj\Debug\AplicacionDeInformesDeVentas.pdb
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\AplicacionDeInformesDeVentas\bin\Debug\AplicacionDeInformesDeVentas.exe.config
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\AplicacionDeInformesDeVentas\bin\Debug\AplicacionDeInformesDeVentas.exe
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\AplicacionDeInformesDeVentas\bin\Debug\AplicacionDeInformesDeVentas.pdb
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\AplicacionDeInformesDeVentas\obj\Debug\AplicacionDeInformesDeVentas.csproj.AssemblyReference.cache
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\AplicacionDeInformesDeVentas\obj\Debug\AplicacionDeInformesDeVentas.Form1.resources
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\AplicacionDeInformesDeVentas\obj\Debug\AplicacionDeInformesDeVentas.Properties.Resources.resources
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\AplicacionDeInformesDeVentas\obj\Debug\AplicacionDeInformesDeVentas.csproj.GenerateResource.cache
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\AplicacionDeInformesDeVentas\obj\Debug\AplicacionDeInformesDeVentas.csproj.CoreCompileInputs.cache
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\AplicacionDeInformesDeVentas\obj\Debug\AplicacionDeInformesDeVentas.exe
+C:\Users\Jose Edwardo\Desktop\Tareas de Software II\AplicacionDeInformesDeVentas\obj\Debug\AplicacionDeInformesDeVentas.pdb

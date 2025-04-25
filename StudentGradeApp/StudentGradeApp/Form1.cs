@@ -141,5 +141,10 @@ namespace StudentGradeApp
         {
             MostrarNombreYPromedioNumerico();
         }
+
+        private void lstResults_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

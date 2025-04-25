@@ -83,28 +83,28 @@
             // 
             txtTest3.Location = new Point(258, 170);
             txtTest3.Name = "txtTest3";
-            txtTest3.Size = new Size(122, 26);
+            txtTest3.Size = new Size(122, 30);
             txtTest3.TabIndex = 7;
             // 
             // txtTest2
             // 
             txtTest2.Location = new Point(258, 131);
             txtTest2.Name = "txtTest2";
-            txtTest2.Size = new Size(122, 26);
+            txtTest2.Size = new Size(122, 30);
             txtTest2.TabIndex = 6;
             // 
             // txtTest1
             // 
             txtTest1.Location = new Point(258, 90);
             txtTest1.Name = "txtTest1";
-            txtTest1.Size = new Size(122, 26);
+            txtTest1.Size = new Size(122, 30);
             txtTest1.TabIndex = 5;
             // 
             // txtStudentName
             // 
             txtStudentName.Location = new Point(162, 43);
             txtStudentName.Name = "txtStudentName";
-            txtStudentName.Size = new Size(218, 26);
+            txtStudentName.Size = new Size(218, 30);
             txtStudentName.TabIndex = 4;
             // 
             // label4
@@ -112,7 +112,7 @@
             label4.AutoSize = true;
             label4.Location = new Point(20, 178);
             label4.Name = "label4";
-            label4.Size = new Size(57, 18);
+            label4.Size = new Size(69, 23);
             label4.TabIndex = 3;
             label4.Text = "Text 3:";
             // 
@@ -121,7 +121,7 @@
             label3.AutoSize = true;
             label3.Location = new Point(20, 98);
             label3.Name = "label3";
-            label3.Size = new Size(56, 18);
+            label3.Size = new Size(68, 23);
             label3.TabIndex = 2;
             label3.Text = "Test 1:";
             // 
@@ -130,7 +130,7 @@
             label2.AutoSize = true;
             label2.Location = new Point(20, 139);
             label2.Name = "label2";
-            label2.Size = new Size(56, 18);
+            label2.Size = new Size(68, 23);
             label2.TabIndex = 1;
             label2.Text = "Test 2:";
             // 
@@ -139,7 +139,7 @@
             label1.AutoSize = true;
             label1.Location = new Point(20, 43);
             label1.Name = "label1";
-            label1.Size = new Size(117, 18);
+            label1.Size = new Size(150, 23);
             label1.TabIndex = 0;
             label1.Text = "Student's Name:";
             // 
@@ -160,7 +160,7 @@
             rbnLetter.Checked = true;
             rbnLetter.Location = new Point(57, 17);
             rbnLetter.Name = "rbnLetter";
-            rbnLetter.Size = new Size(67, 23);
+            rbnLetter.Size = new Size(84, 28);
             rbnLetter.TabIndex = 10;
             rbnLetter.TabStop = true;
             rbnLetter.Text = "Letter";
@@ -172,7 +172,7 @@
             rbnNumeric.AutoSize = true;
             rbnNumeric.Location = new Point(240, 17);
             rbnNumeric.Name = "rbnNumeric";
-            rbnNumeric.Size = new Size(86, 23);
+            rbnNumeric.Size = new Size(104, 28);
             rbnNumeric.TabIndex = 11;
             rbnNumeric.Text = "Numeric";
             rbnNumeric.UseVisualStyleBackColor = true;
@@ -183,15 +183,16 @@
             lstResults.FormattingEnabled = true;
             lstResults.Location = new Point(454, 24);
             lstResults.Name = "lstResults";
-            lstResults.Size = new Size(250, 327);
+            lstResults.Size = new Size(250, 316);
             lstResults.TabIndex = 12;
+            lstResults.SelectedIndexChanged += lstResults_SelectedIndexChanged;
             // 
             // label5
             // 
             label5.AutoSize = true;
             label5.Location = new Point(454, 377);
             label5.Name = "label5";
-            label5.Size = new Size(114, 19);
+            label5.Size = new Size(142, 24);
             label5.TabIndex = 13;
             label5.Text = "Class Average:";
             // 
@@ -205,7 +206,7 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(9F, 19F);
+            AutoScaleDimensions = new SizeF(11F, 24F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(721, 460);
             Controls.Add(lblClassAverage);

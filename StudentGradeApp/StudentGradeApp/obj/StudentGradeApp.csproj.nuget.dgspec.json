@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jose Edwardo\\Desktop\\C#\\StudentGradeApp\\StudentGradeApp\\StudentGradeApp.csproj": {}
+    "C:\\Users\\Jose Edwardo\\Desktop\\Tareas de Software II\\StudentGradeApp\\StudentGradeApp\\StudentGradeApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jose Edwardo\\Desktop\\C#\\StudentGradeApp\\StudentGradeApp\\StudentGradeApp.csproj": {
+    "C:\\Users\\Jose Edwardo\\Desktop\\Tareas de Software II\\StudentGradeApp\\StudentGradeApp\\StudentGradeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose Edwardo\\Desktop\\C#\\StudentGradeApp\\StudentGradeApp\\StudentGradeApp.csproj",
+        "projectUniqueName": "C:\\Users\\Jose Edwardo\\Desktop\\Tareas de Software II\\StudentGradeApp\\StudentGradeApp\\StudentGradeApp.csproj",
         "projectName": "StudentGradeApp",
-        "projectPath": "C:\\Users\\Jose Edwardo\\Desktop\\C#\\StudentGradeApp\\StudentGradeApp\\StudentGradeApp.csproj",
+        "projectPath": "C:\\Users\\Jose Edwardo\\Desktop\\Tareas de Software II\\StudentGradeApp\\StudentGradeApp\\StudentGradeApp.csproj",
         "packagesPath": "C:\\Users\\Jose Edwardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose Edwardo\\Desktop\\C#\\StudentGradeApp\\StudentGradeApp\\obj\\",
+        "outputPath": "C:\\Users\\Jose Edwardo\\Desktop\\Tareas de Software II\\StudentGradeApp\\StudentGradeApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
